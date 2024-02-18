@@ -9,6 +9,7 @@ body{
 }
 
 .btn-primary{
+    cursor: pointer;
     border-radius: 5px;
     background: #FD6E0A;
     border: 0;
